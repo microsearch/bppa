@@ -15,7 +15,7 @@ description: '"To represent and act for the Police Officers of the City of Bosto
   relating to hours, wages and conditions of employment."
 
 '
-baseurl: ''
+baseurl: 
 url: http://bppa.org
 twitter_username: bppa1
 markdown: kramdown

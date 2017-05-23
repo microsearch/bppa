@@ -1,0 +1,27 @@
+---
+title: Boston Police Patrolmen's Association
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: thebppa@bppa.org
+description: '"To represent and act for the Police Officers of the City of Boston
+  and other of its affiliate Associations or Organizations in matters relating to,
+  affecting, or arising out of employment relations or with respect to all matters
+  relating to hours, wages and conditions of employment."
+
+'
+baseurl: 
+url: http://bppa.org
+twitter_username: bppa1
+markdown: kramdown
+theme: minima
+gems:
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock

@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<div class="home">
+  <script type="text/javascript">
+    var mygallery = new fadeSlideShow({
+      wrapperid: "fadingbanner", //ID of blank DIV on page to house Slideshow
+      dimensions: [800, 222], //width/height of gallery in pixels. Should reflect dimensions of largest image
+      imagearray: [
+        ["assets/images/bppa1.jpg"],
+        ["assets/images/bppa2.jpg"],
+      ],
+      displaymode: {
+        type: 'auto',
+        pause: 1000,
+        cycles: 0,
+        wraparound: false
+      },
+      persist: false, //remember last viewed slide and recall within same session?
+      fadeduration: 3000, //transition duration (milliseconds)
+      descreveal: "ondemand",
+      togglerid: ""
+    })
+  </script>
+  <div id="slideshow">
+    <div id="fadingbanner"></div>
+  </div>
+  <div id="marquee">
+    <marquee id="Scroll" class="marquee" scrolldelay="1" direction="left" behavior="scroll" scrollamount="4.5">Currently there are no new Events and News ..:.. Currently there are no new Events and News ..:.. </marquee>
+  </div>
+  <div class="contentbox">
+    <div class="homecolumn" id="col1">
+      <h2>News &amp; Articles</h2>
+      <ul class="post-list"> {% for post in site.posts %}
+        <li> {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %} <span class="post-meta">{{ post.date | date: date_format }}</span> <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> </li> {% endfor
+        %} </ul>
+    </div>
+    <div class="homecolumn" id="col2">
+      <h2>Pax Centurion</h2> <a href="{{ site.url }}/assets/PAX/WinterPAX2016-17.pdf"><img src="{{ site.url }}/assets/images/PAXWinter20162017.gif" width="60%" /></a>
+      <ul>
+        <li> <a href="{{ site.url }}/assets/PAX/WinterPAX2016-17.pdf">Winter 2016 - 2017</a></li>
+        <li> <a href="{{ site.url }}/assets/PAX/BPPA 50thBook.pdf">50th Year Book!</a></li>
+        <li> <a href="{{ site.url }}/pax">View Archive</a> </li>
+      </ul>
+    </div>
+    <div class="homecolumn" id="col3">
+      <h2>Member Resources</h2>
+      <ul>
+        <li><a href="https://portal.bppa.org">Contracts, Bylaws, and Member-Only Databases</a></li>
+        <li><a href="http://www.odmp.org/">Officer Down Memorial</a></li>
+        <li><a href="http://www.bostonpeersupportquiz.org">BPD Peer Support Unit Quiz</a></li>
+        <li><a href="https://portal.bppa.org/app/MemResources">Retirement Seminar Handout (Member-Only)</a></li>
+      </ul>
+    </div>
+    <div class="clear"> </div> {{ content }} </div>
+</div>

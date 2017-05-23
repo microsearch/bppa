@@ -1,10 +1,9 @@
 ---
-layout: page
 title: Memorial
-permalink: /ems-division/memorial/
+permalink: "/ems-division/memorial/"
+layout: page
 weight: 4
 ---
-
 
 ### TRIBUTE TO LIEUTENANT GEORGE CARTER
 

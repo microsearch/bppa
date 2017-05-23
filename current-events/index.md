@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Current Events
-permalink: /current-events/
+permalink: "/current-events/"
+layout: page
 weight: 2
 ---
 

@@ -1,9 +1,10 @@
 ---
-layout: page
 title: Patrolmen's Division
-permalink: /patrolmens-division/
+permalink: "/patrolmens-division/"
+layout: page
 weight: 3
 ---
+
 [Mission Statement]({{ site.url }}/patrolmens-division/mission-statement/)
 
 [Leadership]({{ site.url }}/patrolmens-division/leadership/)

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: History
-permalink: /ems-division/history/
+permalink: "/ems-division/history/"
+layout: page
 weight: 3
 ---
 

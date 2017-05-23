@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Mission Statement
-permalink: /patrolmens-division/mission-statement/
+permalink: "/patrolmens-division/mission-statement/"
+layout: page
 weight: 1
 ---
 

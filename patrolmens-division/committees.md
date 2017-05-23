@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Committees
-permalink: /patrolmens-division/committees/
+permalink: "/patrolmens-division/committees/"
+layout: page
 weight: 3
 ---
 

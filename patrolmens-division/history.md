@@ -1,7 +1,7 @@
 ---
-layout: page
 title: History
-permalink: /patrolmens-division/history/
+permalink: "/patrolmens-division/history/"
+layout: page
 weight: 4
 ---
 

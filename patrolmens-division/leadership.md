@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Leadership
-permalink: /patrolmens-division/leadership/
+permalink: "/patrolmens-division/leadership/"
+layout: page
 weight: 2
 ---
 

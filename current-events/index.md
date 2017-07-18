@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Current Events
-permalink: /current-events/
+permalink: "/current-events/"
 weight: 2
+layout: page
 ---
 
 [BPD Peer Support Unit Quiz](http://www.bostonpeersupportquiz.org/)

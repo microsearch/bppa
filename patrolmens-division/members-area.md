@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Members Area
-permalink: /patrolmens-division/members-area/
+permalink: "/patrolmens-division/members-area/"
+layout: page
 weight: 6
 ---
 

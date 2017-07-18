@@ -1,7 +1,7 @@
 ---
-layout: page
 title: EMS Division
-permalink: /ems-division/
+permalink: "/ems-division/"
+layout: page
 weight: 4
 ---
 

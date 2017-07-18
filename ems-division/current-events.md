@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Current Events
-permalink: /ems-division/current-events/
+permalink: "/ems-division/current-events/"
+layout: page
 weight: 1
 ---
 

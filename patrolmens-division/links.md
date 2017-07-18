@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Links
-permalink: /patrolmens-division/links/
+permalink: "/patrolmens-division/links/"
+layout: page
 weight: 5
 ---
 

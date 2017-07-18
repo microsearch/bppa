@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Pax Centurion Archive
-permalink: /pax/
+permalink: "/pax/"
+layout: page
 weight: 1
 exclude: true
 ---

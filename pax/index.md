@@ -8,11 +8,13 @@ exclude: true
 
 ### PAX Centurion - Current Issue
 
-[Winter 2016 - 2017]({{ site.url }}/assets/PAX/WinterPAX2016-17.pdf)
+[Summer 2017]({{ site.url }}/assets/PAX/PAX 2017 Summer.pdf)
 
-[![{{ site.url }}/assets/images/PAXWinter20162017.gif]({{ site.url }}/assets/PAX/WinterPAX2016-17.pdf)]({{ site.url }}/assets/PAX/WinterPAX2016-17.pdf)
+[![{{ site.url }}/assets/images/pax-summer.png]({{ site.url }}/assets/PAX/PAX 2017 Summer.pdf)]({{ site.url }}/assets/PAX/PAX 2017 Summer.pdf)
 
 ---
+
+[Winter 2016 - 2017]({{ site.url }}/assets/PAX/WinterPAX2016-17.pdf)
 
 [Fall 2016]({{ site.url }}/assets/PAX/PAX 2016 Fall.pdf)
 

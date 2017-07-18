@@ -10,50 +10,6 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
-
-  <script language="Javascript">
-  var timeout	= 500;
-  var closetimer	= 0;
-  var ddmenuitem	= 0;
-
-  // open hidden layer
-  function mopen(id)
-  {
-  	// cancel close timer
-  	mcancelclosetime();
-
-  	// close old layer
-  	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
-
-  	// get new layer and show it
-  	ddmenuitem = document.getElementById(id);
-  	ddmenuitem.style.visibility = 'visible';
-
-  }
-  // close showed layer
-  function mclose()
-  {
-  	if(ddmenuitem) ddmenuitem.style.visibility = 'hidden';
-  }
-
-  // go close timer
-  function mclosetime()
-  {
-  	closetimer = window.setTimeout(mclose, timeout);
-  }
-
-  // cancel close timer
-  function mcancelclosetime()
-  {
-  	if(closetimer)
-  	{
-  		window.clearTimeout(closetimer);
-  		closetimer = null;
-  	}
-  }
-
-  // close layer when click-out
-  document.onclick = mclose;
-  </script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
   <script type="text/javascript" src="{{ site.url }}/assets/js/slide-show.js"></script>
 </head>

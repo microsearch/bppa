@@ -1,6 +1,6 @@
 ---
 title: Boston Police Patrolmen's Association
-timezone: UTC
+timezone: America/New_York
 collections:
   posts:
     title: Posts

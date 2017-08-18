@@ -9,12 +9,15 @@ collections:
     title: Uploads
     output: true
 email: thebppa@bppa.org
-description: > # this means to ignore newlines until "baseurl:"
-  "To represent and act for the Police Officers of the City of Boston and other of its affiliate Associations or Organizations in matters relating to, affecting, or arising out of employment relations or with respect to all matters relating to hours, wages and conditions of employment."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bppa.org" # the base hostname & protocol for your site, e.g. http://example.com
+description: '"To represent and act for the Police Officers of the City of Boston
+  and other of its affiliate Associations or Organizations in matters relating to,
+  affecting, or arising out of employment relations or with respect to all matters
+  relating to hours, wages and conditions of employment."
+
+'
+baseurl: 
+url: https://bppa.org
 twitter_username: bppa1
-#github_username:  jekyll
 markdown: kramdown
 theme: minima
 gems:

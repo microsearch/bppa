@@ -8,5 +8,3 @@ layout: post
 ---
 
 Click [here](http://www.bostonpeersupportquiz.org/) to access the BPD Peer Support Unit Quiz.
-
-Test.

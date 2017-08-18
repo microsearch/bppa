@@ -27,13 +27,13 @@ layout: default
     <div id="fadingbanner"></div>
   </div>
   <div id="marquee">
-    <marquee id="Scroll" class="marquee" scrolldelay="1" direction="left" behavior="scroll" scrollamount="4.5">Currently there are no new Events and News ..:.. Currently there are no new Events and News ..:.. </marquee>
+    <marquee id="Scroll" class="marquee" scrolldelay="1" direction="left" behavior="scroll" scrollamount="4.5">Scholarship letters and forms are available for both the Patrolmen's Division <a href="{{ site.url }}/patrolmens-division/scholarships/">here</a> and the EMS Division <a href="{{ site.url }}/ems-division/scholarships/">here</a>. </marquee>
   </div>
   <div class="contentbox">
     <div class="homecolumn" id="col1">
       <h2>News &amp; Articles</h2>
       <ul class="post-list"> {% for post in site.posts %}
-        <li> {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %} <span class="post-meta">{{ post.date | date: date_format }}</span> <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> </li> {% endfor
+        <li> {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %} <span class="post-meta">{{ post.date | date: date_format }}</span> <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a><span class="post-excerpt">{{ post.excerpt }}</span></li> {% endfor
         %} </ul>
     </div>
     <div class="homecolumn" id="col2">

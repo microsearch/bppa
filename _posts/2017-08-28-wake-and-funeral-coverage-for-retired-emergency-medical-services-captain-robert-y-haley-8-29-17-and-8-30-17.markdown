@@ -2,6 +2,8 @@
 title: Wake and Funeral Coverage for Retired Emergency Medical Services Captain Robert
   Y. Haley 8-29-17 & 8-30-17
 date: 2017-08-28 18:20:00 -04:00
+categories:
+- news
 ---
 
 Attached is an assignment for the Wake and Funeral Coverage for Retired Emergency Medical Services Captain Robert Y. Haley 8-29-17 & 8-30-17.

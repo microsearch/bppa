@@ -8,11 +8,11 @@ layout: page
 
 ### PAX Centurion - Current Issue
 
-[Fall 2017]({{ site.url }}/uploads/PAX 2017-2018 Winter.pdf)
+[Winter 2017 - 2018]({{ site.url }}/uploads/PAX 2017-2018 Winter.pdf)
 
-[{{ site.url }}/uploads/PAX 2017-2018 Winter.PNG]({{ site.url }}/assets/PAX/PAX 2017-2018 Winter.pdf)
+![{{ site.url }}/uploads/PAX 2017-2018 Winter.PNG]({{ site.url }}/assets/PAX/PAX 2017-2018 Winter.pdf)
 
-[Winter 2017 - 2018]({{ site.url }}/assets/PAX/PAX 2017 Fall.pdf)
+[Fall 2017]({{ site.url }}/assets/PAX/PAX 2017 Fall.pdf)
 
 [Summer 2017]({{ site.url }}/assets/PAX/PAX 2017 Summer.pdf)
 

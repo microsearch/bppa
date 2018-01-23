@@ -1,16 +1,18 @@
 ---
 title: Leadership
 permalink: "/patrolmens-division/leadership/"
-layout: page
 weight: 2
+layout: page
 ---
 
-Patrick Rose, President
+Michael Leary, President (mleary@bppa.org)
 
-Michael F. Leary, Vice President
+Christopher Broderick, Vice President (cbroderick@bppa.org)
 
-Christopher Broderick, Secretary
+Robert Colburn, Treasurer (rcolburn@bppa.org)
 
-Robert Colburn, Treasurer
+Jay Moccia, Secretary (jmoccia@bppa.org)
+
+Lawrence Calderone, Legislative Director (lcalderone@bppa.org)
 
 The BPPA Office

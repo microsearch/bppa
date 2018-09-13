@@ -9,10 +9,6 @@ Michael Leary, President (mleary@bppa.org)
 
 Christopher Broderick, Vice President (cbroderick@bppa.org)
 
-Robert Colburn, Treasurer (rcolburn@bppa.org)
-
 Jay Moccia, Secretary (jmoccia@bppa.org)
 
-Lawrence Calderone, Legislative Director (lcalderone@bppa.org)
-
-The BPPA Office
+Robert Colburn, Treasurer (rcolburn@bppa.org)
